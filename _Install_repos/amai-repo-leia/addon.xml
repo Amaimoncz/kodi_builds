@@ -4,7 +4,7 @@
     <dir>
       <info>https://raw.githubusercontent.com/Amaimoncz/kodi_builds/main/v18/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/Amaimoncz/kodi_builds/main/v18/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/Amaimoncz/kodi_build/main/v18/</datadir>
+      <datadir zip="true">https://raw.githubusercontent.com/Amaimoncz/kodi_builds/main/v18/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
